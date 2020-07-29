@@ -1,1 +1,1 @@
-web: gunicorn app:countdown
+web: gunicorn app:app
